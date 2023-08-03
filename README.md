@@ -1,4 +1,4 @@
-# sweahili-queries.py
+# swahili-queries.py
 how well do you know Kenya?
 
 This Python script is a simple quiz game that tests your knowledge. It presents a series of questions to the user and allows them to answer. After each answer, it provides feedback and keeps track of the score. Once all the questions are answered, it displays the final score and the percentage of correct answers.
